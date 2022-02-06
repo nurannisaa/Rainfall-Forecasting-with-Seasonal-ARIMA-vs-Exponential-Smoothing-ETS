@@ -49,3 +49,6 @@ Exponential smoothing is a time series forecasting method for univariate data th
 ## Model Recommendation
 - The more data used in the train set, the more accurate the model can perform. 
 - Try more combinations of parameters in order to improve the model.
+
+See the full presentation [here](https://github.com/nurannisaa/Rainfall-Forecasting-with-Seasonal-ARIMA-vs-Exponential-Smoothing-ETS/blob/main/Seasonal%20ARIMA%20for%20Rainfall%20Forecasting.pdf)
+See the full codes [here] (https://github.com/nurannisaa/Rainfall-Forecasting-with-Seasonal-ARIMA-vs-Exponential-Smoothing-ETS/blob/main/Nur_Annisa_A_Script_Progress_Final_Project%20(1).ipynb)

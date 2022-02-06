@@ -8,7 +8,7 @@ In this project, we will try the forecasting using Python language and the forec
 [The data used](https://github.com/nurannisaa/Seasonal-ARIMA-for-Rainfall-Forecasting/blob/main/g4.areaAvgTimeSeries.TRMM_3B42_Daily_7_precipitation.19990101-20190101.180W_50S_180E_50N.csv) in this analysis are obtained from [Giovanni](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2000-01-01T00:00:00Z&endtime=2021-01-01T23:59:59Z), a web interface that allows users to analyze NASA's gridded data from various satellite and surface observations. 
 
 ## Forecasting Models
-A research article titled *"Statistical and Machine Learning forecasting methods: Concerns and ways forward"* shows a visualization below where it shows the overall sMAPE for all statistical and ML methods used for forecasting in M3 Competition. As we can see, ARIMA and ETS are the two methods that performed best among the other methods. Therefore, ARIMA and ETS methods will be used in this forecast modelling.
+A research article titled "Statistical and Machine Learning forecasting methods: Concerns and ways forward" shows a visualization where it contains the overall sMAPE for all statistical and ML methods used for forecasting in M3 Competition. As we can see, ARIMA and ETS are the two methods that performed best among the other methods. Therefore, ARIMA and ETS methods will be used in this forecast modelling.
 
 ![image](https://user-images.githubusercontent.com/92699016/152678223-2e3f5c6d-8ffa-4762-aa36-087738bead62.png) 
 
